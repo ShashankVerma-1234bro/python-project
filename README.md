@@ -1,4 +1,4 @@
-# python-project
+# python-projects
 this repository contains some python projects
 
 this project consists of 2 modules - 
